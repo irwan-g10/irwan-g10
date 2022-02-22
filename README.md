@@ -1,2 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=irwan-g10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://camo.githubusercontent.com/1df21367b0e3f0f3d31464eb9d47e76b0a164f83e8afc941a3a5c6c4569e95e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d62616861726970267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374">
+![](https://github-readme-stats.vercel.app/api?username=irwan-g10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=irwan-g10&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irwan-g10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
